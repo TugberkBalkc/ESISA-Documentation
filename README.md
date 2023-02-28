@@ -14,3 +14,5 @@
   *Kullanıcı Arayüzleri Tasarımları
   *Test Planları
 gibi bölümlerde aktif olarak rol aldım.
+
+-ESISA Projesinin backend ayağı tarafımca başlatılıyor olup, mimarisi ve yaklaşımlar projede tarafımca oluşturulmuştur. Bu yaklaşımları temel seviyede içeren  bir backend projesi Onion-Architecture-Implementations repository'imde mevcut.
